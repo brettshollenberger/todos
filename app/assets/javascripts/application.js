@@ -12,5 +12,11 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require angular
+//= require angular-route
+//= require lodash
+//= require async
+//= require active-support
+//= require ngActiveResource
 //= require turbolinks
 //= require_tree .

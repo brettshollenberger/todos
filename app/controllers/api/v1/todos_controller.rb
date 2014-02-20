@@ -5,7 +5,7 @@ module Api
       respond_to :json
 
       def index
-        respond_with(Todo.all)
+        respond_with(Todo.all.order("completed ASC").order("id DESC"))
       end
 
       def show

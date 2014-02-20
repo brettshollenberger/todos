@@ -1,0 +1,16 @@
+{
+  "lib": {
+    "name": "bower-rails generated lib assets",
+    "dependencies": {
+      "angular": "latest",
+      "angular-route": "latest",
+      "ngActiveResource": "latest",
+      "todomvc-common": "latest"
+    }
+  },
+  "vendor": {
+    "name": "bower-rails generated vendor assets",
+    "dependencies": {
+    }
+  }
+}
